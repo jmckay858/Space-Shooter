@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-#pragma strict
+
 public class DestroyByBoundary : MonoBehaviour {
 
 		
